@@ -8,9 +8,13 @@ This is a very important problem that I have been working on.
 
 really, really cool results 
 
-### Rigures 
+### Figures 
 So beautiful, really, Just the best 
- 
+
+## Conclusions
+
+I made important conclusions. 
+
 ## References 
 
 Smith, J (2020). 
